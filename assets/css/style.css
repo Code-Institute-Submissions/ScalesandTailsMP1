@@ -2,7 +2,9 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background-color: white;
+  background-color:wheat;
+  max-width: 960px;
+  margin: auto;
 }
 
 /* Header/Blog Title */
@@ -14,7 +16,7 @@ body {
 
 .header h1 {
   font-size: 50px;
-  color: green;
+  color:black;
 }
 
 /* Style the top navigation bar */
@@ -50,7 +52,7 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: wheat;
   padding-left: 20px;
 }
 
@@ -63,7 +65,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: wheat;
   padding: 20px;
   margin-top: 20px;
 }
@@ -77,15 +79,15 @@ body {
 
 /* Footer */
 .footer {
-  padding: 20px;
+  padding: 10px;
   text-align: center;
-  background: #ddd;
-  margin-top: 20px;
+  background-color: transparent;
+  margin-top: 10px;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {   
+  .leftcolumn, .rightcolumn{   
     width: 100%;
     padding: 0;
   }
@@ -97,4 +99,23 @@ body {
     float: none;
     width: 100%;
   }
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
 }
