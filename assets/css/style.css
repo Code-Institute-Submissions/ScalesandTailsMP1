@@ -1,8 +1,8 @@
 
 body {
-  font-family: Arial;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 10px;
-  background-color:wheat;
+  background: linear-gradient(to top right, #00ffff 35%, #33cc33 100%);
   max-width: 960px;
   margin: auto;
 }
@@ -11,28 +11,31 @@ body {
 .header {
   padding: 30px;
   text-align: center;
-  background-color:wheat;
+  background-color:transparent;
 }
 
 .header h1 {
-  font-size: 50px;
+  font-size: 20px;
   color:black;
 }
 
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: grey;
+  background-color: transparent;
+  width: 100%;
 }
 
 /* Style the topnav links */
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #0a0a0a;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  width: 25%;
+
 }
 
 /* Change color on hover */
@@ -52,22 +55,16 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: wheat;
+  background-color: transparent;
   padding-left: 20px;
 }
-
-/* Fake image */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
-
 /* Add a card effect for articles */
+
 .card {
-  background-color: wheat;
+  background-color: transparent;
   padding: 20px;
   margin-top: 20px;
+  width: 100%;
 }
 
 /* Clear floats after the columns */
