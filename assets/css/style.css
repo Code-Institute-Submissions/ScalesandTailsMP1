@@ -53,7 +53,7 @@ body {
 
 /* Right column */
 .rightcolumn {
-  float: left;
+  float: right;
   width: 25%;
   background-color: transparent;
   padding-left: 20px;
@@ -116,3 +116,4 @@ body {
   vertical-align: middle;
   width: 100%;
 }
+
