@@ -104,6 +104,25 @@ body {
   padding: 0 4px;
 }
 
+
+.row img{
+transition: 1s ease;
+}
+
+.container{
+    display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.container img:hover{
+    -webkit-transform: scale(1.8);
+-ms-transform: scale(1.8);
+transform: scale(1.8);
+transition: 1s ease;
+}
+
+
 /* Create four equal columns that sits next to each other */
 .column {
   flex: 25%;
