@@ -1,4 +1,4 @@
-
+/* body styling */
 body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 10px;
@@ -7,7 +7,7 @@ body {
   margin: auto;
 }
 
-/* Header/Blog Title */
+/* Header Title */
 .header {
   padding: 30px;
   text-align: center;
@@ -66,7 +66,12 @@ body {
   margin-top: 20px;
   width: 100%;
 }
-
+.googlemap{
+  background-color: transparent;
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -98,6 +103,7 @@ body {
   }
 }
 
+
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -116,7 +122,7 @@ transition: 1s ease;
 }
 
 .container img:hover{
-    -webkit-transform: scale(1.8);
+-webkit-transform: scale(1.8);
 -ms-transform: scale(1.8);
 transform: scale(1.8);
 transition: 1s ease;
