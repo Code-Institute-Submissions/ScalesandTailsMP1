@@ -13,7 +13,7 @@ body {
   text-align: center;
   background-color:transparent;
 }
-
+/* styling the h1 */
 .header h1 {
   font-size: 20px;
   color:black;
@@ -59,19 +59,13 @@ body {
   padding-left: 20px;
 }
 /* Add a card effect for articles */
-
 .card {
   background-color: transparent;
   padding: 20px;
   margin-top: 20px;
   width: 100%;
 }
-.googlemap{
-  background-color: transparent;
-  padding: 20px;
-  margin-top: 20px;
-  width: 100%;
-}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -82,9 +76,10 @@ body {
 /* Footer */
 .footer {
   padding: 10px;
-  text-align: center;
+  text-align: left;
   background-color: transparent;
   margin-top: 10px;
+  
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
@@ -103,24 +98,25 @@ body {
   }
 }
 
-
+/* rows */
 .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
 }
 
-
+/* row images */
 .row img{
 transition: 1s ease;
 }
 
+/* container */
 .container{
-    display: flex;
+  display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
 }
-
+/* image hover in container */
 .container img:hover{
 -webkit-transform: scale(1.8);
 -ms-transform: scale(1.8);
@@ -128,18 +124,38 @@ transform: scale(1.8);
 transition: 1s ease;
 }
 
-
 /* Create four equal columns that sits next to each other */
 .column {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
   flex: 25%;
   max-width: 25%;
-  padding: 0 4px;
 }
-
+/* column images */
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 100%;
 }
 
+/* this is for styling the header on gallery page */
+.header{
+text-align: center;
+  padding: 32px;
+}
 
+/* Responsive layout - makes a two column-layout instead of four columns  for the gallery page*/
+@media (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other  for the gallery page*/
+@media (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
