@@ -1,5 +1,6 @@
 # Scales and Tails
 # Reptile Information
+
 This website is another thing im passionate about which is reptiles. I want to show people that reptiles can be kept as pets 
 I personally have had reptiles since i was younger and always found them facinating from lizards to snakes, Alot of people 
 that dont like reptiles say they dont show any affection to there owners but in fact these people are wrong as i have snakes and 
