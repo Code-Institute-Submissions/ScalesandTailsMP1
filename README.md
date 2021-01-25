@@ -1,7 +1,7 @@
 # Scales and Tails
 # Reptile Information
 
-This website is another thing im passionate about which is reptiles. I want to show people that reptiles can be kept as pets 
+This website is a hobby i am passionate about which is reptiles. I want to show people that reptiles can be kept as pets 
 I personally have had reptiles since i was younger and always found them facinating from lizards to snakes, Alot of people 
 that dont like reptiles say they dont show any affection to there owners but in fact these people are wrong as i have snakes and 
 lizards which all have there own personality and affection to me as there owner. I have crested geckos which when they see me in the room thet come
@@ -9,7 +9,7 @@ straight over to tank and look out at me to see what im doing and and a leopard 
 they do know the differences between food and there owner as the same as a dog or cat. if you treat an animal with repect and the handling and care they know you and trust you.
 
 I personally done this to show people the side of reptiles that they dont know and hopefully help people with there fears and show them  a softer side of reptiles and show them before getting a reptile research them 
-as alot of reptile are bought when they are nice and small and when they get bigger they get tossed aside and mistreated, due to no fault of there own which we similar see with dogs and other animals 
+as alot of reptiles are bought when they are nice and small and when they get bigger they get tossed aside and mistreated, due to no fault of there own which we similar see with dogs and other animals 
 which is not fair to them. 
 
 
