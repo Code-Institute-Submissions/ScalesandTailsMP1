@@ -66,6 +66,12 @@ body {
   width: 100%;
 }
 
+.card button{
+    background-color: transparent;
+    border-radius: 50%;
+    size: 50%;
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
