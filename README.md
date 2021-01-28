@@ -16,7 +16,7 @@ which is not fair to them.
  
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This is an information website for people who want to find out beginner species to get.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a user type, I want to perform an action, so that I can achieve a goal.
@@ -36,14 +36,19 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- More features i would like to implement would be more species of reptiles and also 
+more awareness of what the animals require and information on reptile rescue services.
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+In this section, all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [HTML5] [CSS3] [BootStrap] [FontAwesome]
+    - The project uses **HTML5** to as the bases of this website.
+    - it uses **CSS3** for the styling of this website.
+    - it uses **BootStrap** for styling and layout and **FontAwesome** for different font styles
+
+-[w3schools.com] i used this to help me with some of the different code, and if i needed help with code to figure it out.
 
 
 ## Testing
