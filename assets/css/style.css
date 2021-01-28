@@ -2,7 +2,7 @@
 body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 10px;
-  background:linear-gradient(red, yellow, green);
+  background:linear-gradient(blue, yellow, green);
   max-width: 960px;
   margin: auto;
 }
