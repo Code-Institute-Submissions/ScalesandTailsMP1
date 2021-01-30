@@ -8,7 +8,7 @@ This website has various pages for people to learn about reptiles and informatio
 - link to live website  https://jay-o-sullivan.github.io/milestoneProject1/
  
 
- This project i did not use a bootstrap template , i wanted to do it from different pieces of code and make them work together for my own design.
+ This project i used the code institute bootstrap template and changed it as i wanted to do it from different pieces of code and make them work together for my own design.
  
 ## UX
  
