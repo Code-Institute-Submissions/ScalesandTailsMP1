@@ -85,6 +85,11 @@ wireframes.pdf is located in the project files outlining the design.
 
 [github.pages] https://pages.github.com/
 
+This website is deployed with github pages.
+
+- below i will show you how to clone the code 
+
+
 
 
 
