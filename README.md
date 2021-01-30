@@ -12,86 +12,92 @@ I personally done this to show people the side of reptiles that they dont know a
 as alot of reptiles are bought when they are nice and small and when they get bigger they get tossed aside and mistreated, due to no fault of there own which we similar see with dogs and other animals 
 which is not fair to them. 
 
-
+website-link https://jay-o-sullivan.github.io/milestoneProject1/
  
 ## UX
  
 This is an information website for people who want to find out beginner species to get.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+wireframes.pdf is located in the project files outlining the design.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
+- home
+- about
+- gallery
+- youtube
+
+
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+- Feature 1 - home - This is the main page which is index.html in project files.
+  - This page has 2 containers left and right container with different information and images and also links to about page.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Feature 2 - about - This is the second page of the website the code for this is in about.html in project files.
+  - This page has a row that has 2 card classes with information on 2 species and also links to the wikipedia of both.
+
+- Feature 3 - gallery - This is the third page of the website the code for this is gallery.html.
+  -This page features all of the images of different reptiles and it also expands images on hover. 
+
+- I also added a link for youtube which goes directly to reptile videos.
+
+- CSS - This is where all the design code for this project is and its in css folder in project files.
+
 
 ### Features Left to Implement
-- More features i would like to implement would be more species of reptiles and also 
-more awareness of what the animals require and information on reptile rescue services.
+
+- More features i would like to implement would be more species of reptiles in the about page.
+- Another Page with Information on what different species requirements
+- A page designed to show locations and information reptile rescue services in Ireland.
+- A Donate page also to give local rescues funding and zoos in ireland.
+- A app dedicated to morphs of different species and calculations of the odds the morphs could be.
 
 ## Technologies Used
 
-In this section, all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- librarys 
+   -https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css
+   -https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+   -https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css  
+   -https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+   
+ ## Languages  
+  - [HTML5] [CSS3] [BootStrap] [FontAwesome]
+       - The project uses **HTML5** to as the bases of this website.
+       - it uses **CSS3** for the styling of this and hover on this website.
+       - it uses **BootStrap** for styling and layout and **FontAwesome** for different font styles
 
-- [HTML5] [CSS3] [BootStrap] [FontAwesome]
-    - The project uses **HTML5** to as the bases of this website.
-    - it uses **CSS3** for the styling of this website.
-    - it uses **BootStrap** for styling and layout and **FontAwesome** for different font styles
+- [https://w3schools.com] I used this to help me with some of the different code that i needed to design my website.
 
--[w3schools.com] i used this to help me with some of the different code, and if i needed help with code to figure it out.
+- [https://validator.w3.org/] I used this to check my HTML and CSS code to make sure if i had errors that i could fix them. 
+
 
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- I have tested the responsiveness of this website in browser by dragging it to different sizes and also by the inspect page element in the browser.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+- The website is fully responsive and works on different browsers and screen sizes.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+- Some of the bugs i found were syntax errors and have been fixed and some styling issues. 
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+[github.pages] https://pages.github.com/
 
 
-## Credits
+
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The content i used in the pages was from my own knowledge and experience with these reptiles and from people in the hobby.
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from my own personal photos and i got 2 images from (pixabay.com) which i stated in the code.
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+The Code Institute Staff and Tutors.
 
+### Contact
+
+Email - jayosullivan25@gmail.com
