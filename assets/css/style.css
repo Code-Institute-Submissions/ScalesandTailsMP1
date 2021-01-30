@@ -7,17 +7,19 @@ body {
   margin: auto;
 }
 
+/* h2 styling */
 h2{
 text-align: center;
 font-weight: bold;
 }
+/* h4 styling */
 h4{
     font-weight: bold;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 30px;
 }
-
+/* h6 styling */
 h6{
     padding-top: 20px;
     padding-bottom: 30px;
@@ -32,7 +34,7 @@ h6{
   background-color:transparent;
   font-weight: bold;
 }
-/* styling the h1 */
+/* styling the h1 in header */
 .header h1 {
   font-size: 20px;
   color:black;
@@ -86,10 +88,11 @@ h6{
   width: 100%;
   font-variant: small-caps;
 }
+/* card p style */
 .card p{
     padding: 20px;
 }
-
+/* card button styling */
 .card button{
     background-color:wheat;
     border-radius: 50%;
@@ -103,7 +106,7 @@ h6{
   clear: both;
 }
 
-/* Footer */
+/* Footer styling */
 .footer {
   padding: 10px;
   text-align: left;
@@ -155,13 +158,11 @@ transition: 1s ease;
 transform: scale(1.8);
 transition: 1s ease;
 }
-
+/* column image */
 .column img{
     width: 100%;
     align-self: center;
 }
-
-
 
 /* Create four equal columns that sits next to each other */
 .gallery {
@@ -184,6 +185,7 @@ text-align: center;
   padding: 32px;
 }
 
+/* gallery */
 .gallery {
   display: flex;
   flex-direction: row;
