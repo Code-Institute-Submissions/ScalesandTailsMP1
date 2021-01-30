@@ -26,7 +26,7 @@ wireframes.pdf is located in the project files outlining the design, link to wir
 - Youtube tab with link.
 
 
-### Existing Features
+## Existing Features
 
 - Feature 1 
   - Home - This is the main page which is index.html in project files.
@@ -45,7 +45,7 @@ wireframes.pdf is located in the project files outlining the design, link to wir
 - CSS - This is where all the design code for this project is and its in css folder in project files.
 
 
-### Features to Implement future
+## Features to Implement future
 
 - More features i would like to implement would be more species of reptiles in the about page.
 - Another Page with Information on what different species requirements
@@ -53,7 +53,7 @@ wireframes.pdf is located in the project files outlining the design, link to wir
 - A Donate page also to give local rescues funding and zoos in ireland.
 - A app dedicated to morphs of different species and calculations of the odds the morphs could be.
 
-## Technologies Used
+### Technologies Used
 
 - Librarys 
    - https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css
@@ -68,7 +68,7 @@ wireframes.pdf is located in the project files outlining the design, link to wir
   
   
   
- ### Languages 
+ ## Languages 
  
   - [HTML5] - [CSS3]  -[BootStrap]  -[FontAwesome]
        - The project uses **HTML5** to as the bases of this website.
@@ -85,8 +85,17 @@ wireframes.pdf is located in the project files outlining the design, link to wir
 
 - The wireframes for this is in project files  https://github.com/jay-o-sullivan/milestoneProject1/blob/master/wireframes.pdf
 
+### Testing images
 
-# Bugs 
+- Firefox responsive design mode
+
+- link to images https://github.com/jay-o-sullivan/milestoneProject1/tree/master/testing
+ - samsung galaxy s9+
+ - ipad
+ - kindle fire
+ - pixel 2 xl 
+ 
+### Bugs 
 
 - Responsiveness of the website was not working correctly. since then it has been fixed
 
@@ -94,7 +103,7 @@ wireframes.pdf is located in the project files outlining the design, link to wir
 
 
 
-# Deployment
+## Deployment
 
 This project is developed using GitPod committed to git and pushed to github.
 
@@ -114,7 +123,7 @@ This website was published using [github.pages] https://pages.github.com/
 
 
 
-### Content
+## Content
 
 - The content i used in the pages was from my own knowledge and experience, and some from my friends who own and have these animals.
 - [https://w3schools.com] used this to help with some of the different code that i needed to design my website.
@@ -124,7 +133,7 @@ This website was published using [github.pages] https://pages.github.com/
 
 
 
-### Media
+## Media
 
 - The photos used in this site were are my own photos. 
 - 2 images from (pixabay.com) which i stated in the code.
@@ -133,7 +142,7 @@ This website was published using [github.pages] https://pages.github.com/
 
 
 
-### Acknowledgements
+## Acknowledgements
 
 - Jay O Sullivan - All text used in website.
 - Sarah-Jane Scanlon - For her help with the images.
@@ -141,7 +150,10 @@ This website was published using [github.pages] https://pages.github.com/
 - StackOverflow.
 - The Code Institute Staff and Tutors.
 
-### Contact Details
+
+
+
+## Contact Details
 
 - Email 
   - jayosullivan25@gmail.com
