@@ -2,7 +2,7 @@
 body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 10px;
-  background:linear-gradient(blue, yellow, green);
+  background:linear-gradient(rgb(211, 190, 133), yellow, rgb(145, 209, 145));
   max-width: 960px;
   margin: auto;
 }
@@ -60,7 +60,7 @@ h6{
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: rgba(193, 196, 190, 0.834);
+  background-color: rgb(255, 255, 255);
   color: black;
 }
 
@@ -80,7 +80,7 @@ h6{
 }
 /* Add a card effect for articles */
 .card {
-  background-color: rgb(160, 216, 204);
+  background-color: rgb(255, 255, 255);
   padding: 20px;
   margin-top: 20px;
   width: 100%;
